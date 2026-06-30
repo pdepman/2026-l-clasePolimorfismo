@@ -1,5 +1,4 @@
-% Aquí va el código.
-
+% Base de Conocimiento
 % hizoGolContra(Jugador, EquipoContrario).
 hizoGolContra(messi, argelia).
 hizoGolContra(messi, argelia).
@@ -12,12 +11,15 @@ hizoGolContra(sar, noruega).
 
 % equipoDe(Jugador, Equipo).
 equipoDe(messi, argentina).
-equipoDe(haaland, noruega).
+equipoDe(haaland, noruega). % TUM TUM… 🥁RO!! 🚣‍♂️
 equipoDe(pedersen, noruega).
 equipoDe(sar, senegal).
 
-% Vemos el futuro:
+% campeonMundial(Equipo).
 campeonMundial(marruecos).
-
-
-
+/*
+    "Lo dije en el '75 cuando fuimos a jugar la 
+    Copa Mohammed a Marruecos. Dije acá está el 
+    futuro del fútbol. No está en Europa, en 
+    Sudamérica" -- el Doctor Bilardo - Sábado Bus, año 2000
+*/
