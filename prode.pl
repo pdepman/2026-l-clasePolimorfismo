@@ -8,12 +8,16 @@ hizoGolContra(haaland, senegal).
 hizoGolContra(pedersen, senegal).
 hizoGolContra(sar, noruega).
 hizoGolContra(sar, noruega).
+hizoGolContra(gakpo, marruecos).
+hizoGolContra(diop, holanda).
 
 % equipoDe(Jugador, Equipo).
 equipoDe(messi, argentina).
 equipoDe(haaland, noruega). % TUM TUM… 🥁RO!! 🚣‍♂️
 equipoDe(pedersen, noruega).
 equipoDe(sar, senegal).
+equipoDe(gakpo, holanda).
+equipoDe(diop, marruecos).
 
 % campeonMundial(Equipo).
 campeonMundial(marruecos).
